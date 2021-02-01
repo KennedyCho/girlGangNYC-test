@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-girlgangnyctest-dev-132928-authRole",
+      "UnauthRoleArn": "arn:aws:iam::799486131382:role/amplify-girlgangnyctest-dev-132928-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::799486131382:role/amplify-girlgangnyctest-dev-132928-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-girlgangnyctest-dev-132928-deployment",
+      "UnauthRoleName": "amplify-girlgangnyctest-dev-132928-unauthRole",
+      "StackName": "amplify-girlgangnyctest-dev-132928",
+      "StackId": "arn:aws:cloudformation:us-east-1:799486131382:stack/amplify-girlgangnyctest-dev-132928/5672bae0-64e5-11eb-bce6-12f3521c88a3",
+      "AmplifyAppId": "d3nvrb6cs1xtq8"
+    }
+  }
+}
